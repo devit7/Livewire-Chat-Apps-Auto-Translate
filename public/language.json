@@ -1,0 +1,31 @@
+{
+    "languages": [
+        { "language": "Afrikaans", "code": "af" },
+        { "language": "Albanian", "code": "sq" },
+        { "language": "Arabic", "code": "ar" },
+        { "language": "Azerbaijani", "code": "az" },
+        { "language": "Bulgarian", "code": "bg" },
+        { "language": "Chinese (Simplified)", "code": "zh-CN" },
+        { "language": "Croatian", "code": "hr" },
+        { "language": "Czech", "code": "cs" },
+        { "language": "Dutch", "code": "nl" },
+        { "language": "English", "code": "en" },
+        { "language": "Filipino (Tagalog)", "code": "fil" },
+        { "language": "French", "code": "fr" },
+        { "language": "German", "code": "de" },
+        { "language": "Indonesian", "code": "id" },
+        { "language": "Japanese", "code": "ja" },
+        { "language": "Javanese", "code": "jv" },
+        { "language": "Korean", "code": "ko" },
+        { "language": "Malay", "code": "ms" },
+        { "language": "Myanmar (Burmese)", "code": "my" },
+        { "language": "Portuguese", "code": "pt" },
+        { "language": "Romanian", "code": "ro" },
+        { "language": "Russian", "code": "ru" },
+        { "language": "Serbian", "code": "sr" },
+        { "language": "Spanish", "code": "es" },
+        { "language": "Sundanese", "code": "su" },
+        { "language": "Turkish", "code": "tr" },
+        { "language": "Vietnamese", "code": "vi" }
+    ]
+}
