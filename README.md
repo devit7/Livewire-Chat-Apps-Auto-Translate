@@ -1,4 +1,4 @@
-```markdown
+
 # Aplikasi Chat dengan Fitur Translate Otomatis
 
 Aplikasi chat ini dibangun dengan menggunakan Laravel, Livewire, Tailwind, dan MySQL. Aplikasi ini memungkinkan pengguna untuk mengirim pesan tanpa loading (menggunakan `wire:poll`) dan memiliki fitur translate otomatis. Pesan yang diterima dapat diterjemahkan ke bahasa yang telah diatur oleh pengguna (contoh: Bahasa Indonesia) dengan sekali klik.
